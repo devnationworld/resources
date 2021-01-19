@@ -11,6 +11,7 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 - [Lists](#lists)
 - [Books](#books)
 - [Learning](#learning)
+- [Skills](#skills)
 - [Trends](#trends)
 - [Tools](#tools)
 - [How-to's](#how-to-s)
@@ -40,7 +41,7 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 [WeChat Mini Program: an epic guide.](https://wechatwiki.com/wechat-resources/wechat-mini-program-epic-tutorial-guide/) 101: what are WeChat Mini Apps? How do they compare to native Apps and H5 mini-sites? [WECHATWIKI]
 
-##Skills
+## Skills
 
 [How writing skills can help developers grow.](https://dzone.com/articles/how-writing-skills-can-help-soft-developers-grow?) With communication being the #1 in-demand skill today, writing can influence your engineering career more than you think. It's time to get the most out of it, agree? [DZONE]
 
