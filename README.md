@@ -11,6 +11,7 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 - [Lists](#lists)
 - [Books](#books)
 - [Learning](#learning)
+- [Career] (#career)
 - [Skills](#skills)
 - [Trends](#trends)
 - [Tools](#tools)
@@ -25,6 +26,12 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 [51 latest seminar topics for computer science engineering (CSE).](https://www.thecrazyprogrammer.com/2020/12/seminar-topics-for-computer-science-engineering.html)  This post will help you identify the most trending and latest seminar topics for CSE. [THECRAZYPROGRAMMER]
 
 [50 free tools and resources.](https://markodenic.com/50-free-tools-and-resources/)  Free stuff is always exciting. But, what if it is free and awesome? Free tools and resources you’re gonna love. [MARKODENIC]
+
+[Keep updated on latest iOS /Swift content.](https://iosfeeds.com/)Filip Němeček has created this useful resource which aggregates over 400 blogs. [IOSFEEDS]
+
+[7 unique APIs for your next project.](https://dev.to/renaissanceengineer/7-unique-apis-for-your-next-project-4hf9) Need some inspiration for a new project? Check these out. [DEVTO]
+
+[8 traits of the most resilient person.](https://www.lifehack.org/896218/who-is-a-resilient-person) Do you want to learn the traits of a resilient person so you can develop the trait within yourself? [LIFEHACK]
 
 ## Books
 
@@ -41,9 +48,25 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 [WeChat Mini Program: an epic guide.](https://wechatwiki.com/wechat-resources/wechat-mini-program-epic-tutorial-guide/) 101: what are WeChat Mini Apps? How do they compare to native Apps and H5 mini-sites? [WECHATWIKI]
 
+[Can you become a successful software developer without a CS degree?](https://dev.to/this-is-learning/can-you-become-a-successful-software-developer-without-a-cs-degree-my-opinion-27om) Here is Natalia Venditto's opinion on this. Do you agree? [DEVTO]
+
+[Use GitHub like a PRO!](https://youtu.be/sGnqVAfnZ6U) [Video] - 8 secrets, tips and tricks. [YOUTUBE.CODERDAVE]
+
+[30 days to form a new habit of coding – are you in?](https://www.geeksforgeeks.org/30-days-to-form-a-new-habit-of-coding-are-you-in) GeeksforGeeks has launched 30 Days of Code, a free course where you can attempt one coding question every day for 30 days and can master your Data structure and Algorithm skills. [GEEKSFORGEEKS]
+
+
+## Career
+[11 professional goals statement examples for your next job search.](https://www.developgoodhabits.com/professional-goal-statements/) Goals are very motivating factors to have in your professional life. They will help inspire you to get your work done because you will have a clear vision of what you’re working toward and what you need to do to get there. [DEVELOPGOODHABITS]
+
+
+
 ## Skills
 
 [How writing skills can help developers grow.](https://dzone.com/articles/how-writing-skills-can-help-soft-developers-grow?) With communication being the #1 in-demand skill today, writing can influence your engineering career more than you think. It's time to get the most out of it, agree? [DZONE]
+
+[Personal strategic planning.](https://www.briantracy.com/blog/personal-success/personal-strategic-planning-4-step-action-plan-to-strengthen-your-personal-skills-personal-mission-statement/) This is a 4-step action plan to strengthen your personal skills. [BRIANTRACY]
+
+[Keep current, stay employed: The most in-demand tech skills for 2021.](https://www.techrepublic.com/article/keep-current-stay-employed-the-most-in-demand-tech-skills-for-2021/) Python, data security fundamentals, data analytics, Agile methodologies, DevOps & SecOps, and cloud fundamentals are also at the top of the best skills to have, according to a new report from Skillsoft.. [TECHREPUBLIC]
 
 
 ## Trends
@@ -65,16 +88,20 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 [How to effectively scope your software projects.](https://www.freecodecamp.org/news/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9/)  Angela Zhang learned that scoping is one of the hardest things to get right. Unfortunately, CS programs in universities don’t really teach you how to scope projects. Here's a consolidation of what she's learned on this topic. [FREECODECAMP]
 
-
-[How to choose which game to develop? – A step-by-step guide.](https://gamedev.net/blogs/entry/2271144-how-to-choose-which-game-to-develop-a-step-by-step-guide/)  No game developer wants to spend months or years on something that will ultimately only sell 100 copies. Even though luck is an important part of game development, it is false to conclude that prior research can’t significantly improve your chances. [GAMEDEV]
-
+[How to become a better developer by asking questions.](https://www.stevejgordon.co.uk/how-to-become-a-better-developer-by-asking-questions?) Asking questions is a critical part of building your own experience and becoming a better developer. [STEVEJGORDON]
 
 [How to improve your focus in 2021.](https://www.carmenhchung.com/how-to-improve-your-focus-in-2021.html)  Here are a few takeaways from Carmn Chung. [CARMENCHUNG]
+
+[The worry list.](https://alifeofproductivity.com/the-worry-list/) [Podcast] How to step back from all of the things you are worrying about. [ALIFEOFPRODUCTIVITY]
+
+[How to be prepared for opportunities.](https://www.lifeoptimizer.org/2021/01/27/how-to-be-prepared-for-opportunities/) How do you make the most of the opportunities? Here are some tips. [LIFEOPTIMIZER]
 
 
 ## Organising
 
 [KanbanFlow vs. Trello vs. nTask.](https://dzone.com/articles/kanbanflow-vs-trello-who-wins-the-battle)  Knowing the importance of project management software is one thing but to have an idea about the best project management software in the world is a completely different animal. [DZONE]
+
+[Why do I spend weeks avoiding tasks that will take me 10 minutes to do?'](https://www.vice.com/en/article/akd44z/why-do-i-procrastinate) Procrastinating has less to do with time management and more to do with mood management. [VICE]
 
 
 ## Articles
@@ -86,6 +113,8 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 [How Apple just changed the entire industry.](https://www.youtube.com/watch?v=OuF9weSkS68&feature=youtu.be) A thorough and easy to understand video covering the basics behind desktop/mobile CPUs. [YOUTUBE]
 
 [Voice search in mobile applications and websites.](https://www.speechly.com/blog/voice-search/) For many, voice search only or primarily refers to search engine optimization for voice queries. This is a valid use case for voice, but not the only one. Voice could (and should) also be available on all websites and applications. [SPEECHLY]
+
+[Progressive Web Apps in 2021.](https://firt.dev/pwa-2021/) Maximiliano Firtman discusses the current status, market share, what's new, what's missing, new challenges and new capabilities. [FIRTDEV]
 
 
 
