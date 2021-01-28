@@ -11,7 +11,7 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 - [Lists](#lists)
 - [Books](#books)
 - [Learning](#learning)
-- [Career] (#career)
+- [Career](#career)
 - [Skills](#skills)
 - [Trends](#trends)
 - [Tools](#tools)
