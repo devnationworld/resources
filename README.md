@@ -1,10 +1,10 @@
 # Developer Resources
 
-A place where we share all the useful developer resources we've discovered. Liked what you see? You can also check out our website on [www.developereconomics.com.](www.developereconomics.com) 
+A place where we share all the useful developer resources we've discovered. Liked what you see? You can also check out our website [www.developereconomics.com.](www.developereconomics.com) 
 
-As we grow this list, we'll create separate repositories for each category, but for now you can enjoy them all in one place.
+This is just the beginning! As we grow this list, we'll create separate repositories for each category, but for now you can enjoy all the resources in one place.
 
-If you've got a resource that you'd like to add to here, let us know. If you find these resources helpful, leave a star! We also share these resources in our fortnightly newsletter which you can sign up to [here.](https://content.developereconomics.com/developer-economics-newsletter-signup-form) We give away a cosy hoodie each month to a reader.
+If you've got a resource that you'd like to add to here, we'd love to hear from you. If you find these resources helpful, leave a star! We also share these resources in our fortnightly newsletter which you can sign up to [here.](https://hubs.ly/H0FBz3B0) We give away a cosy hoodie each month to a reader.
 
 Finally, what are the biggest trends you anticipate for 2021? [Take our survey](https://www.developereconomics.net?utm_medium=github&utm_source=github&utm_campaign=developer_resources), answer a few questions about dev tools, platforms and technologies for a chance to win cool prizes. 
 
