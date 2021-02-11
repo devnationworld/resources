@@ -34,6 +34,12 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 [Progressive Web Apps in 2021.](https://firt.dev/pwa-2021/) Maximiliano Firtman discusses the current status, market share, what's new, what's missing, new challenges and new capabilities. [FIRTDEV]
 
+[An Introduction to Channels in C#.](https://jeremybytes.blogspot.com/2021/02/an-introduction-to-channels-in-c.html) Jeremy provides an introduction to channels and looks at an example that mirrors some code from the Go programming language (golang). This will provide you with an idea of the syntax and how channels work. [JEREMYBYTES]
+
+[5 Challenges for a Freelance Developer](https://developereconomics.com/blog/5-challenges-for-freelance-developers) Thinking about becoming a freelance developer? Here are some common challenges, pros, cons and trade-offs you may encounter choosing this career path. [DEVELOPERCONOMICS]
+
+[Finding a software developer mentor when you're a newbie.](https://dzone.com/articles/finding-a-software-developer-mentor-when-youre-a-n) Whether you're just out of university or you just graduated from a coding boot camp, you'll need help from mentors to become the best developer you can be. [DZONE]
+
 
 ## Books
 
@@ -42,6 +48,8 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 ## Career
 [11 professional goals statement examples for your next job search.](https://www.developgoodhabits.com/professional-goal-statements/) Goals are very motivating factors to have in your professional life. They will help inspire you to get your work done because you will have a clear vision of what you’re working toward and what you need to do to get there. [DEVELOPGOODHABITS]
+
+[How to ask for a raise in 2021: 5 tips.](https://enterprisersproject.com/article/2021/1/how-ask-raise-2021-5-tips) How can you make a case for a raise now, even amid the pandemic? Consider this expert advice to get the salary increase you deserve in 2021. [ENTERPRISERSPROJECT]
 
 
 ## How-to's
@@ -55,6 +63,8 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 [The worry list.](https://alifeofproductivity.com/the-worry-list/) [Podcast] How to step back from all of the things you are worrying about. [ALIFEOFPRODUCTIVITY]
 
 [How to be prepared for opportunities.](https://www.lifeoptimizer.org/2021/01/27/how-to-be-prepared-for-opportunities/) How do you make the most of the opportunities? Here are some tips. [LIFEOPTIMIZER]
+
+[React performance optimization tips.](https://dev.to/harshdand/react-performance-optimization-tips-4238) In this post, Harsh looks into how we can improve the performance of React apps that need to render a lot of components on the screen. [DEVTO]
 
 ## Learning
 [Learn easier & faster with side-effect learning.](https://www.youtube.com/watch?v=kqVpbwCaYlI)  Sometimes the best way to learn is by accident. And some accidents can be...arranged. [YOUTUBE]
@@ -84,6 +94,12 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 [8 traits of the most resilient person.](https://www.lifehack.org/896218/who-is-a-resilient-person) Do you want to learn the traits of a resilient person so you can develop the trait within yourself? [LIFEHACK]
 
+[42 tips and tricks to write faster, better-optimized JavaScript code.](https://medium.com/javascript-in-plain-english/42-tips-and-tricks-to-write-faster-better-optimized-javascript-code-3a82c53d051e) Optimize your JavaScript code using modern techniques, tips, and tricks. [MEDIUM]
+
+[10 awesome sources of funding & grants for your indie game.](https://ninichimusic.com/blog/10-awesome-sources-of-funding-grants-for-your-indie-game) Are you an indie game developer wondering how to fund your game? Perhaps some of these organisations and indie developer funds could be worth looking at. [NINICHIMUSIC]
+
+[Front-end performance checklist 2021.](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/) Everything you need to know to create fast experiences on the web today, from metrics to tooling and front-end techniques. [SMASHING.MAGAZINE]
+
 
 ## Organising
 
@@ -99,11 +115,18 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 [Keep current, stay employed: The most in-demand tech skills for 2021.](https://www.techrepublic.com/article/keep-current-stay-employed-the-most-in-demand-tech-skills-for-2021/) Python, data security fundamentals, data analytics, Agile methodologies, DevOps & SecOps, and cloud fundamentals are also at the top of the best skills to have, according to a new report from Skillsoft.. [TECHREPUBLIC]
 
+[Change your brain.](https://www.youtube.com/watch?v=SwQhKFMxmDY) Dr. Huberman is here to school us on all things neuroplasticity---and how we can use it to our advantage through intense focus, mindfulness, and restorative sleep. Enjoy! [YOUTUBE]
+
+
 ## Tools
 
 [7 best performance testing tools to look out for in 2021.](https://dzone.com/articles/7-best-performance-testing-tools-to-look-out-for-i)  Comprehensive list of 7 best performance testing tools used widely by performance testing services in 2021 and their key features. [DZONE]
 
 [Comparing 9 code quality tools.](https://dzone.com/articles/comparing-9-code-quality-tools-of-2020)  It's always a good idea to have good code quality tools in your developer toolbox, helping you manage technical debt by writing clean and maintainable source code. [DZONE]
+
+[Java code quality tools recommended by developers.](https://dzone.com/articles/java-code-quality-tools-recommended-by-developers) See what Java code tools are recommended by developers in this article. [DZONE]
+
+[Are these the most interesting front-end developer tools for 2021?](https://www.impressivewebs.com/most-interesting-front-end-developer-tools-2021/) A list of sixty tools for you to discover. [IMPRESSIVEWEBS]
 
 ## Trends
 
