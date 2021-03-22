@@ -6,8 +6,6 @@ This is just the beginning! As we grow this list, we'll create separate reposito
 
 If you've got a resource that you'd like to add to here, we'd love to hear from you.Simply get in touch in via [discussions.](https://github.com/DeveloperEconomics/resources/discussions) If you find these resources helpful, leave a star! We also share these resources in our fortnightly newsletter which you can sign up to [here.](https://hubs.ly/H0FBz3B0) We give away a cosy hoodie each month to a reader.
 
-Finally, what are the biggest trends you anticipate for 2021? [Take our survey](https://www.developereconomics.net?utm_medium=github&utm_source=github&utm_campaign=developer_resources), answer a few questions about dev tools, platforms and technologies for a chance to win cool prizes. 
-
 - [Articles](#articles)
 - [Books](#books)
 - [Career](#career)
