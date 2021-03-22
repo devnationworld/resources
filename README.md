@@ -18,9 +18,10 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 - [Skills](#skills)
 - [Tools](#tools)
 - [Trends](#trends)
-- [Fun!] (#fun!)
+- [Fun!](#fun-)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## Articles
