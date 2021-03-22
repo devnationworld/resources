@@ -18,7 +18,7 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 - [Skills](#skills)
 - [Tools](#tools)
 - [Trends](#trends)
-- [Fun!](#fun-)
+- [Fun!](#fun)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -179,7 +179,7 @@ Finally, what are the biggest trends you anticipate for 2021? [Take our survey](
 
 [Top 5 computer vision trends that will rule 2021.](https://www.analyticsinsight.net/top-5-computer-vision-trends-that-will-rule-2021) Computer vision software is changing companies and making the lives of shoppers simpler as well as additionally fascinating. As a field, computer vision has got a lot of exposure and a good amount of investment. The North American market for computer vision programming has had a total investment of $120 million, while the Chinese market flooded to $3.9 billion. [ANALYTICSINSIGHTS]
 
-## Fun!
+## Fun
 [Can you beat 1024 bytes of JavaScript at Chess?](https://www.vice.com/en/article/n7vpnw/can-you-beat-1024-bytes-of-javascript-at-chess) A chess program that will baffle and destroy all but the most competent players. And all while a digitized Beth Harmon stares you down. [VICE]
 
 
