@@ -23,6 +23,34 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Articles
+[Open Source on Mars: Community powers NASA’s Ingenuity Helicopter.](https://github.com/readme/nasa-ingenuity-helicopter) Nearly 12,000 people contributed code, documentation, graphic design, and more to the open source software that made Ingenuity’s launch possible. To celebrate this moment in open source history, GitHub added a new badge to profiles of those contributors. [GITHUB]
+
+[To overcome imposter syndrome, think in systems.](https://alifeofproductivity.com/to-overcome-imposter-syndrome-think-in-systems/) Success comes when you work intelligently within a system of interconnected parts. Understanding the system you’re in, and the intelligent ways in which you interact with it, goes a long way towards understanding the success you’ve achieved—and overcoming imposter syndrome. [ALIFEOFPRODUCTIVITY]
+
+[Don’t we all just want to use SQL on the frontend?](https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146) When we consume REST, GraphQL, or RPC APIs from the frontend, most of the time these api calls just end up being translated into SQL statements on the backend. So why don’t we just write SQL in the frontend to begin with? [VJPR.MEDIUM]
+
+[The unconventional Developer Advocate?](https://dev.to/measomvanessa/the-unconventional-developer-advocate-21gi) Want to know more about the person behind the Developer Economics newsletter? [DEVTO]
+
+[What most developers get wrong about bugs?](https://levelup.gitconnected.com/what-most-developers-get-wrong-about-bugs-653b4e94b317) Who’s to blame for bugs? Blame developers? Blame testers? [LEVELUP.GITCONNECTED]
+
+[The best way to stay up to date with C# 10 features.](https://www.productivecsharp.com/2021/04/stay-up-to-date-with-csharp-features/) This blog post contains some useful links for developers who want to stay on the cutting edge of the C# programming language.. [PRODUCTIVECSHARP]
+
+[The engineer’s complete guide to code quality.](https://dzone.com/articles/the-engineers-complete-guide-to-code-quality?edition=671395) There are lots of ways you can improve your code quality, make it easier to review and test and reduce the pain later of having to fix all of the errors. Let's take a look. [DZONE]
+
+[Two approaches to win an argument as a software engineer.](https://humanwhocodes.com/blog/2021/03/two-approaches-win-argument-software-engineer/) Here's how to get your point across effectively. [HUMANWHOCODES]
+
+[Why are Java server-side developers not adopting Kotlin?](https://medium.com/google-developer-experts/why-are-java-server-side-developers-not-adopting-kotlin-8eb53e06ee99) [MEDIUM]
+
+[Using a computer chair the right way.](https://npmawesome.com/posts/2021-04-07-using-a-computer-chair-the-right-way) What should you pay attention to? [NPMAWESOME]
+
+[Arts and culture activities for your health and wellbeing.](https://blog.google/outreach-initiatives/arts-culture/arts-and-culture-activities-your-health-and-wellbeing/) Like regular exercise or a good night’s sleep, the arts are proving important to our health and wellbeing. [BLOG.GOOGLE]
+
+[For the first time in years, someone is building a web browser from scratch.](https://medium.com/fast-company/for-the-first-time-in-years-someone-is-building-a-web-browser-from-scratch-bfcd0f35d1ad) It’s one of the most daunting tasks in software. But by starting with a blank slate, Flow wants to make web browsing better on cheap hardware. [MEDIUM]
+
+[The "Software Support" Economy.](https://www.youtube.com/watch?v=hkOFUk1b79U&ab_channel=ClementVouillon) [4 min video] Very interesting development on the software support economy. Infrastructure tools (email, marketing, accounting, CRM,etc) for SMBs are not just opening to developers. They are also opening to partners who will specialise in setting up those tools for small businesses. [CLEMENT.VOUILLON]
+
+[The pain points of C# source generators.](https://turnerj.com/blog/the-pain-points-of-csharp-source-generators) For those that are unaware, source generators are a new feature added to C# whereby one can analyse existing source code and generate new source code all from C# itself. [TURNERJ]
+
 [The future of web software Is HTML-over-WebSockets.](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets) The future of web-based software architectures is already taking form, and this time it’s server-rendered (again). Papa’s got a brand new bag: HTML-over-WebSockets and broadcast everything all the time. [ALISTAPART]
 
 [Developers: stop writing these comments!](https://itnext.io/developers-stop-writing-these-comments-22b6e26cf35d) There is technically no right or wrong when it comes to comments, but comments can have a big impact on efficiency. They can make developers’ lives much easier. Let’s take a look at some day-to-day comments and see how we can improve them. [ITNEXT]
@@ -63,6 +91,8 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Books
+[7 DevOps books to read in 2021.](https://developereconomics.com/blog/7-devops-books-to-read-in-2021) If you are looking to learn more about Ansible, Azure, Docker, Terraform, Kubernetes, and their roles in DevOps, then this blog post is for you. [DEVELOPERECONOMICS]
+
 [Five frontend books you should read in 2021.](https://developereconomics.com/blog/five-frontend-books-you-should-read-in-2021) What skills are you planning to learn as a frontend developer this year? [DEVELOPERECONOMICS]
 
 [Eight must-read books for developers in 2021.](https://developereconomics.com/blog/eight-must-read-books-for-developers-in-2021)  What are the top books on your reading list this season? Whether you’re learning a new skill or adding depth to your existing knowledge in a particular development area, it’s always a good idea to get a few more recommendations to your list. [DEVELOPERECONOMICS]
@@ -75,6 +105,8 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## How-to's
+[How to choose the right online course or platform when you’re learning to code.](https://www.freecodecamp.org/news/choosing-the-right-course-9ae77fd3504a/) What should a course include to ensure that your learning experience is optimal so that you both complete the course and successfully learn the content? Without such an evaluation, you may find yourself drifting from course to course in a perpetual state of confusion which brings about frustration, and may lead you to give up. [FREECODECAMP]
+
 [Multiple views on how to choose a visualization.](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc) Most quick reference guides advise you which visualization to use based on what you want people to see in the data. That’s tougher at the analysis stage, when you don’t yet know what’s there to see. [MEDIUM]
 
 [How to measure developer productivity (and how not to).](https://www.arnnet.com.au/article/686768/how-measure-developer-productivity-how/) If you’re using software development productivity metrics to evaluate developer performance, then you’re doing it wrong. For best results, tie them to business outcomes. [ARN]
@@ -96,6 +128,14 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [React performance optimization tips.](https://dev.to/harshdand/react-performance-optimization-tips-4238) In this post, Harsh looks into how we can improve the performance of React apps that need to render a lot of components on the screen. [DEVTO]
 
 ## Learning
+[GitLab offering free certification until April 31.](https://www.reddit.com/r/git/comments/mv3od9/gitlab_offering_free_certification_until_april_31/) The link to a Reddit thread provides further context - individual GitLab users who earn GitLab Certified Associate certification receive a certification logo they can share on social media to showcase their accomplishments. This helps highlight to colleagues and employers their foundational knowledge of how to use GitLab, and their capacity for growth in gaining additional GitLab skills going forward. [REDDIT]
+
+[Which AWS certification should you take first? The definitive answer.](https://www.thedevcoach.co.uk/which-aws-certification-first/) This article covers the certifications, their structure, and which certification to take first. [THEDEVCOACH]
+
+[IBM tries to tempt devs to eat its Qiskit, feeds them certification for quantum systems.](https://devclass.com/2021/03/29/ibm-claims-a-first-with-developer-certification-for-quantum-systems/) The IBM Quantum Developer Certification is a 60-question certification exam offered on the Pearson VUE computer-based test platform. Unsurprisingly, those who pass the exam will have demonstrated experience using IBM’s Qiskit to create and execute quantum code for IBM quantum computers and simulators. The exam is available globally, but currently appears to be available only in English. [DEVCLASS]
+
+[Absolute start in machine learning.](https://www.hebergementwebs.com/news/absolute-start-in-machine-learning) A useful post to help you get started in machine learning. [HEBERGEMENTWEBS]
+
 [What are low-code databases?](https://venturebeat.com/2021/02/15/what-are-low-code-databases/) What are some use cases for low-code databases and who are the main providers of low-code databases? VentureBeat share some of the answers. [VENTUREBEAT]
 
 [Learn easier & faster with side-effect learning.](https://www.youtube.com/watch?v=kqVpbwCaYlI)  Sometimes the best way to learn is by accident. And some accidents can be...arranged. [YOUTUBE]
@@ -115,6 +155,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [30 days to form a new habit of coding – are you in?](https://www.geeksforgeeks.org/30-days-to-form-a-new-habit-of-coding-are-you-in) GeeksforGeeks has launched 30 Days of Code, a free course where you can attempt one coding question every day for 30 days and can master your Data structure and Algorithm skills. [GEEKSFORGEEKS]
 
 ## Lists
+[Top 20+ bootstrap dashboard templates to use absolutely free.](https://flatlogic.com/blog/top-20-bootstrap-dashboard-templates-to-use-absolutely-free/) Flatlogic have gathered a list of the most attractive admin dashboards for you to choose from. Build your website effortlessly and in record time with free Bootstrap admin templates. [FLATLOGIC]
+
+[Some libraries you can use with Vanilla JS.](https://dev.to/commentme/some-vanilla-js-libraries-you-must-try-17a3) Here are some examples of their libraries that make Vanilla JS somewhat impeccable. [DEVTO]
+
 [Obscure mobile design techniques that boost UX.](https://www.smashingmagazine.com/2021/03/solutions-mobile-design-boost-user-experience/) To inspire mobile designers, here's some clever design solutions to tackle mobile navigation, confirmation dialogs, animations, and gamifying the waiting experience. [SMASHING.MAGAZINE]
 
 [51 latest seminar topics for computer science engineering (CSE).](https://www.thecrazyprogrammer.com/2020/12/seminar-topics-for-computer-science-engineering.html)  This post will help you identify the most trending and latest seminar topics for CSE. [THECRAZYPROGRAMMER]
@@ -140,6 +184,8 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [Why do I spend weeks avoiding tasks that will take me 10 minutes to do?'](https://www.vice.com/en/article/akd44z/why-do-i-procrastinate) Procrastinating has less to do with time management and more to do with mood management. [VICE]
 
 ## Skills
+[Five key best practices for AWS cost optimisation – analysed.](https://cloudcomputing-news.net/news/2021/apr/16/five-key-best-practices-for-aws-cost-optimisation-analysed/) Optimising cloud costs is about striking a healthy balance between price and performance. You want your applications to have enough resources, but at the same time avoid cloud waste. Here are five tips to get you started on your AWS cost optimisation journey. [CLOUDCOMPUTING-NEWS]
+
 [Here are some app ideas you can build to level up your coding skills.](https://medium.com/free-code-camp/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672) Have you ever wanted to build something but you had no idea what to do? Here is a collection of application ideas which is intended to solve this issue once and for all! [MEDIUM]
 
 [Why developers procrastinate (and how to stop).](https://www.7pace.com/blog/why-developers-procrastinate) Procrastination is an age-old struggle — and not just for developers. But people who do knowledge work are especially prone to it, because of how mental blocks can severely impact their work. [7PACE]
@@ -158,6 +204,8 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Tools
+[Dev tools tabs explained — plus tips & tricks.](https://hwcdn.libsyn.com/p/0/f/a/0faf952a8187886c/Syntax344.mp3?c_id=100588247&cs_id=100588247&expiration=1619094491&hwt=8252d4b39004fd90e251952c194f1976) [Podcast] In this episode of Syntax, Scott and Wes talk about dev tools tabs, what each tab does and how you can use them. [SYNTAX]
+
 [SQ.](https://sq.io/) A free/libre open-source swiss-army knife to inspect, query, join, import, and export data. [SQ]
 
 [7 best performance testing tools to look out for in 2021.](https://dzone.com/articles/7-best-performance-testing-tools-to-look-out-for-i)  Comprehensive list of 7 best performance testing tools used widely by performance testing services in 2021 and their key features. [DZONE]
@@ -178,6 +226,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [Top 5 computer vision trends that will rule 2021.](https://www.analyticsinsight.net/top-5-computer-vision-trends-that-will-rule-2021) Computer vision software is changing companies and making the lives of shoppers simpler as well as additionally fascinating. As a field, computer vision has got a lot of exposure and a good amount of investment. The North American market for computer vision programming has had a total investment of $120 million, while the Chinese market flooded to $3.9 billion. [ANALYTICSINSIGHTS]
 
 ## Fun
+[Is it Pokémon or Big Data?](https://pixelastic.github.io/pokemonorbigdata) A fun little microsite where you have to guess whether it’s a Big Data project or a Pokémon. Enjoy and let us know your score! [PIXELASTIC]
+
+[Debugging with choose-your-own-adventure-style puzzles.](https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles/) Julia Evans has started building some choose-your-own-adventure-style puzzles about debugging networking problems. She's created two so far "The Case of the Connection Timeout" and "The Case of the Slow Website". Check them out! [JVNS]
+
 [Can you beat 1024 bytes of JavaScript at Chess?](https://www.vice.com/en/article/n7vpnw/can-you-beat-1024-bytes-of-javascript-at-chess) A chess program that will baffle and destroy all but the most competent players. And all while a digitized Beth Harmon stares you down. [VICE]
 
 
