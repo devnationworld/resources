@@ -23,6 +23,34 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Articles
+[That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix.](https://www.theregister.com/2021/05/19/salesforce_root_cause/)" We found a circular dependency where the tool that we use to get into production had a dependency on the DNS servers being active". [THEREGISTER]
+
+[Angular launches a new feature request process.](https://blog.angular.io/new-feature-request-process-a9f69d106fc8) You can view their new process in this blog post. [BLOG.ANGULAR]
+
+[Watch out: These unsubscribe emails only lead to further spam.](https://www.bleepingcomputer.com/news/security/watch-out-these-unsubscribe-emails-only-lead-to-further-spam/) Scammers use fake 'unsubscribe' spam emails to confirm valid email accounts to be used in future phishing and spam campaigns. [BLEEPINGCOMPUTER]
+
+[The battle of the data platform.](https://www.cpard.xyz/posts/the_battle_of_the_data_platform/) This post discusses what the next big thing in tech in the ‘20s will be and which companies look like the main contenders. [CPARD]
+
+[82% of developers get this 3 line CSS quiz wrong.](https://lea.verou.me/2021/05/82-of-developers-get-this-3-line-css-quiz-wrong/) Before you read the full article, take a moment to think about what you would vote! [LEA.VEROU]
+
+[What's the best place to host Next.js site?](https://kontent.ai/blog/comparison-of-jamstack-hosting-platforms-for-next-js) You’ve built your Next.js site and now you want to put it online for the world to see. Which platform is the best to host it? [KONTENT]
+
+[Hello, world. Meet Developer Nation!](https://developereconomics.com/blog/hello-world-meet-developer-nation) It’s a new era for our community, Developer Economics is now Developer Nation. With a new name comes a new responsibility, read about our vision, and how you can get involved. [DEVELOPERNATION]
+
+[The sentences about XR I’m tired of hearing.](https://skarredghost.com/2021/05/27/sentences-about-xr-tired-hearing/) Skarredghost decided to write this satirical post to list some of these sentences about XR that he's tired of hearing about. [SKARREDGHOST]
+
+[The Simpsons meets Data Visualization.](https://towardsdatascience.com/the-simpsons-meets-data-visualization-ef8ef0819d13) Armed with access to just about anything that Homer has ever said, Adam Reevesman couldn’t resist putting on his data scientist hat in order to tease out some insights from one of the most prominent animated television shows of the past three decades. [TOWARDSDATASCIENCE]
+
+[The worst question you can ask a software developer.](https://betterprogramming.pub/the-worst-question-you-can-ask-a-software-developer-ddbcd5956eb4) Managers ask it. Developers hate it. Can you guess what it is? [BETTERPROGAMMING]
+
+[An in-depth look at Angular 12.](https://javascript.plainenglish.io/angular-12-in-depth-7741e759c72) Angular 12 has just been released. Time to discover what’s new!. [JAVASCRIPT.PLAINENGLISH]
+
+[Why programmers should add journaling to their daily routine.](https://dev.to/andrewbaisden/why-programmers-should-add-journaling-to-their-daily-routine-o5j) See the benefits of tracking moods, goals, happiness and habits. [DEVTO]
+
+[The art of accessing APIs.](https://codeburst.io/the-art-of-accessing-apis-bf1a25338fac) An overview of what APIs are, examples of popular APIs, and a brief tutorial on how to make requests. [CODEBURST]
+
+[Understanding the Node.js event Loop.](https://dzone.com/articles/understanding-the-nodejs-event-loop?edition=673400) JavaScript is single-threaded, so how does it handle asynchronous code without blocking the main thread while it waits for an action to complete? [DZONE]
+
 [Open Source on Mars: Community powers NASA’s Ingenuity Helicopter.](https://github.com/readme/nasa-ingenuity-helicopter) Nearly 12,000 people contributed code, documentation, graphic design, and more to the open source software that made Ingenuity’s launch possible. To celebrate this moment in open source history, GitHub added a new badge to profiles of those contributors. [GITHUB]
 
 [To overcome imposter syndrome, think in systems.](https://alifeofproductivity.com/to-overcome-imposter-syndrome-think-in-systems/) Success comes when you work intelligently within a system of interconnected parts. Understanding the system you’re in, and the intelligent ways in which you interact with it, goes a long way towards understanding the success you’ve achieved—and overcoming imposter syndrome. [ALIFEOFPRODUCTIVITY]
@@ -105,6 +133,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## How-to's
+[Google Style Guides.](https://google.github.io/styleguide/) Style guides for Google-originated open-source projects. [GOOGLE.GITHUB]
+
+[How to overcome dread tasks.](https://dcgross.com/accomplish-dread-tasks/) There are things you want to do. There are things you need to do. Sometimes these are the same. This post is how to handle life when they aren’t. [DCGROSS]
+
 [How to choose the right online course or platform when you’re learning to code.](https://www.freecodecamp.org/news/choosing-the-right-course-9ae77fd3504a/) What should a course include to ensure that your learning experience is optimal so that you both complete the course and successfully learn the content? Without such an evaluation, you may find yourself drifting from course to course in a perpetual state of confusion which brings about frustration, and may lead you to give up. [FREECODECAMP]
 
 [Multiple views on how to choose a visualization.](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc) Most quick reference guides advise you which visualization to use based on what you want people to see in the data. That’s tougher at the analysis stage, when you don’t yet know what’s there to see. [MEDIUM]
@@ -155,6 +187,14 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [30 days to form a new habit of coding – are you in?](https://www.geeksforgeeks.org/30-days-to-form-a-new-habit-of-coding-are-you-in) GeeksforGeeks has launched 30 Days of Code, a free course where you can attempt one coding question every day for 30 days and can master your Data structure and Algorithm skills. [GEEKSFORGEEKS]
 
 ## Lists
+[Useful VS code extensions for front-end developers.](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. [SMASHING.MAGAZINE]
+
+[Free cloud database services.](https://bejamas.io/blog/free-cloud-database-services/) A list of free cloud database services that you could use for your business. [BEJAMAS]
+
+[6 exceptional GitHub repos for all developers — part 2](https://medium.com/coders-mojo/6-exceptional-github-repos-for-all-developers-part-2-3eec9a68c31c). What repos would you recommend? [MEDIUM]
+
+[A simplified glossary for machine learning and deep learning.](https://drive.google.com/file/d/1Sx0KvPnxVGnOFhGbnzVvonoYKZOVwA9e/view) Ajit Jaokar couldn't find a concise machine learning glossary for getting started in AI, so he created his own as a mechanism to teach AI (machine learning and deep learning).[AJITJAOKAR]
+
 [Top 20+ bootstrap dashboard templates to use absolutely free.](https://flatlogic.com/blog/top-20-bootstrap-dashboard-templates-to-use-absolutely-free/) Flatlogic have gathered a list of the most attractive admin dashboards for you to choose from. Build your website effortlessly and in record time with free Bootstrap admin templates. [FLATLOGIC]
 
 [Some libraries you can use with Vanilla JS.](https://dev.to/commentme/some-vanilla-js-libraries-you-must-try-17a3) Here are some examples of their libraries that make Vanilla JS somewhat impeccable. [DEVTO]
@@ -184,6 +224,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [Why do I spend weeks avoiding tasks that will take me 10 minutes to do?'](https://www.vice.com/en/article/akd44z/why-do-i-procrastinate) Procrastinating has less to do with time management and more to do with mood management. [VICE]
 
 ## Skills
+[The art of data storytelling.](https://www.juiceanalytics.com/writing/the-art-of-data-storytelling-pixar-style) This is an interesting inspiration for data storytelling. [JUICEANALYTICS]
+
+[Why software security is a skill all programmers should have.](https://www.makeuseof.com/software-security-skill-all-programmers-should-have/) Developing good software is synonymous with ensuring that your software can withstand any malicious attack. This is only achievable through the writing of secure code, the continual testing of an application, and maintaining control of who has access to your data. [MAKEUSEOF]
+
 [Five key best practices for AWS cost optimisation – analysed.](https://cloudcomputing-news.net/news/2021/apr/16/five-key-best-practices-for-aws-cost-optimisation-analysed/) Optimising cloud costs is about striking a healthy balance between price and performance. You want your applications to have enough resources, but at the same time avoid cloud waste. Here are five tips to get you started on your AWS cost optimisation journey. [CLOUDCOMPUTING-NEWS]
 
 [Here are some app ideas you can build to level up your coding skills.](https://medium.com/free-code-camp/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672) Have you ever wanted to build something but you had no idea what to do? Here is a collection of application ideas which is intended to solve this issue once and for all! [MEDIUM]
@@ -204,6 +248,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Tools
+[GitLive.](https://git.live/) Extend your IDE with the real-time features remote development teams need to work together effectively. See what your teammates are working on and get notified of merge conflicts before you commit. Make video calls and code together live, VS Code to JetBrains. [GITLIVE]
+
+[AngularJS development tools for 2021.](https://developereconomics.com/blog/angularjs-development-tools-for-2021) With the help of AngularJS development tools, you can easily create a platform to promote your business—from a simple interface to comparatively complex applications. The following are top trending AngularJS platforms that are growing in popularity by the day. [DEVELOPERECONOMICS]
+
 [Dev tools tabs explained — plus tips & tricks.](https://hwcdn.libsyn.com/p/0/f/a/0faf952a8187886c/Syntax344.mp3?c_id=100588247&cs_id=100588247&expiration=1619094491&hwt=8252d4b39004fd90e251952c194f1976) [Podcast] In this episode of Syntax, Scott and Wes talk about dev tools tabs, what each tab does and how you can use them. [SYNTAX]
 
 [SQ.](https://sq.io/) A free/libre open-source swiss-army knife to inspect, query, join, import, and export data. [SQ]
@@ -216,7 +264,12 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 [Are these the most interesting front-end developer tools for 2021?](https://www.impressivewebs.com/most-interesting-front-end-developer-tools-2021/) A list of sixty tools for you to discover. [IMPRESSIVEWEBS]
 
+[Developer Ipsum.](https://developer-ipsum.netlify.app/?) Matt Downing has created this fun text generator which he calls Lorem for nerds! [DEVELOPER.IPSUM]
+
 ## Trends
+
+[Machine learning in stock market predictions.](https://www.slashdata.co/free-resources/machine-learning-in-stock-market-predictions?) [Report] Is it just for professionals? Understanding ML/DS quant developers. [SLASHDATA]
+
 [The 2021 DevOps trend everyone is missing.](https://dzone.com/articles/the-2021-devops-trend-everyone-is-missing) DevOps is going through the roof. DevOps is everything and everything is DevOps nowadays. But there's one DevOps trend that Rami Honig is seeing that everyone else is missing. [DZONE]
 
 [Infographic: Programming languages adoption trends 2020.](https://developereconomics.com/blog/infographic-programming-languages-adoption-trends-2020) Which programming languages had notable changes in adoption trends in the last 3 years? Find the answers in our infographic with key findings from our Developer Economics 19th edition survey. [DEVELOPERECONOMICS]
