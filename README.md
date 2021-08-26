@@ -23,6 +23,22 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Articles
+[What's new in DigitalOcean App Platform?](https://www.digitalocean.com/blog/new-in-digitalocean-app-platform-enhanced-security-insights-and-dbaas-integration/) There's enhanced security, insights and DBaaS integration. [DIGITALOCEAN]
+
+[Does cloud backup protect against ransomware?](https://www.virtualizationhowto.com/2021/08/does-cloud-backup-protect-against-ransomware/) As businesses aggressively move to the cloud for housing business-critical data, the cloud is becoming a target for hackers launching ransomware attacks. [VIRTUALIZATIONHOWTO]
+
+[5 things to consider when making a video to promote your app or game.](https://gamedev.net/tutorials/business/production-and-management/5-things-to-consider-when-making-a-video-to-promote-your-app-or-game-r5833/) How can you show an app or game in your video in a way that attracts new users? [GAMEDEV]
+
+[Building a healthy and secure software supply chain.](https://www.docker.com/blog/building-a-healthy-and-secure-software-supply-chain/) Securing the software supply chain is now an everyday concern for developers. As attackers increasingly target open-source components as a way to compromise the software supply chain, developers hold the keys to making their projects as secure as they can be. [DOCKER]
+
+[Linux, happy 30th birthday! What the future holds for Linux](https://www.techrepublic.com/article/what-the-future-holds-for-linux-after-its-first-30-years/). Jack Wallen explains how Linux has changed computing for the better and ponders what might be next for the open source OS created by Linus Torvalds. [TECHREPUBLIC]
+
+[It's time to retire the CSV.](https://www.bitsondisk.com/writing/2021/retire-the-csv/) Despite its ubiquity and ease of access, CSV is a wretched way to exchange data. The time has long passed to retire CSV and replace it with something better. [BITSONDISK]
+
+[A brief history of Quantum Mechanics.](https://m.youtube.com/watch?v=5hVmeOCJjOU) [VIDEO] The mysterious world of quantum mechanics has mystified scientists for decades. But this mind-bending theory is the best explanation of reality that we have. [YOUTUBE]
+
+[Software engineer and hitting 40, how to set up for another 20 years of coding.](https://larshaendler.medium.com/software-engineer-and-hitting-40-how-to-set-up-for-another-20-years-of-coding-f97731a5463b) A sane software engineer in their 40s, who is still coding is definitely on the list of endangered species. [LARSHAENDLER.MEDIUM]]
+
 [That Salesforce outage: Global DNS downfall started by one engineer trying a quick fix.](https://www.theregister.com/2021/05/19/salesforce_root_cause/)" We found a circular dependency where the tool that we use to get into production had a dependency on the DNS servers being active". [THEREGISTER]
 
 [Angular launches a new feature request process.](https://blog.angular.io/new-feature-request-process-a9f69d106fc8) You can view their new process in this blog post. [BLOG.ANGULAR]
@@ -133,6 +149,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## How-to's
+[Send mails programmatically with Sendgrid.](https://sayurikamble.hashnode.dev/send-mails-programmatically-with-sendgrid) Learn to send emails from your NextJs Application using SendGrid. [SAYURIKAMBLE.HASHNODE]
+
+[Building the same app 5 times.](https://dev.to/sammyshear/building-the-same-app-5-times-5d8l) Here are Sammy's experiences with jQuery, Angular, React, Vue, and Svelte [DEVTO]
+
 [Google Style Guides.](https://google.github.io/styleguide/) Style guides for Google-originated open-source projects. [GOOGLE.GITHUB]
 
 [How to overcome dread tasks.](https://dcgross.com/accomplish-dread-tasks/) There are things you want to do. There are things you need to do. Sometimes these are the same. This post is how to handle life when they aren’t. [DCGROSS]
@@ -160,6 +180,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [React performance optimization tips.](https://dev.to/harshdand/react-performance-optimization-tips-4238) In this post, Harsh looks into how we can improve the performance of React apps that need to render a lot of components on the screen. [DEVTO]
 
 ## Learning
+[Explore Futures in Flutter.](https://medium.com/flutterdevs/explore-futures-in-flutter-50ea5b91fc2) How to use the future in your flutter applications. [MEDIUM.FLUTTERDEVS]
+
+[Ultimate guide to Regular Expressions (RegEx) on JavaScript.](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript) Matching strings? Lookaheads? Flags? Let's learn more about it! [YURICODESBOT.HASHNODE]
+
 [GitLab offering free certification until April 31.](https://www.reddit.com/r/git/comments/mv3od9/gitlab_offering_free_certification_until_april_31/) The link to a Reddit thread provides further context - individual GitLab users who earn GitLab Certified Associate certification receive a certification logo they can share on social media to showcase their accomplishments. This helps highlight to colleagues and employers their foundational knowledge of how to use GitLab, and their capacity for growth in gaining additional GitLab skills going forward. [REDDIT]
 
 [Which AWS certification should you take first? The definitive answer.](https://www.thedevcoach.co.uk/which-aws-certification-first/) This article covers the certifications, their structure, and which certification to take first. [THEDEVCOACH]
