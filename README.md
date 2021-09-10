@@ -1,10 +1,10 @@
 # Developer Resources
 
-A place where we share all the useful developer resources we've discovered. Liked what you see? You can also check out our website [www.developereconomics.com.](www.developereconomics.com) 
+A place where we share all the useful developer resources we've discovered. Liked what you see? You can also check out our website [www.developernation.net](http://www.developernation.net/?utm_source=github&utm_medium=resources_repo&utm_campaign=resources) 
 
 This is just the beginning! As we grow this list, we'll create separate repositories for each category, but for now you can enjoy all the resources in one place.
 
-If you've got a resource that you'd like to add to here, we'd love to hear from you.Simply get in touch in via [discussions.](https://github.com/DeveloperEconomics/resources/discussions) If you find these resources helpful, leave a star! We also share these resources in our fortnightly newsletter which you can sign up to [here.](https://hubs.ly/H0FBz3B0) We give away a cosy hoodie each month to a reader.
+If you've got a resource that you'd like to add to here, we'd love to hear from you.Simply get in touch in via [discussions.](https://github.com/devnationworld/resources/discussions) If you find these resources helpful, leave a star! We also share these resources in our fortnightly newsletter which you can sign up to [here.](http://content.developernation.net/developer-nation-newsletter-signup-form) We give away a cosy hoodie each month to a reader.
 
 - [Articles](#articles)
 - [Books](#books)
