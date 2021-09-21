@@ -1,6 +1,6 @@
 # Developer Resources
 
-A place where we share all the useful developer resources we've discovered. Liked what you see? You can also check out our website [www.developernation.net](http://www.developernation.net/?utm_source=github&utm_medium=resources_repo&utm_campaign=resources) 
+A place where we share all the useful developer resources we've discovered. Like what you see? You can also check out our website [www.developernation.net](http://www.developernation.net/?utm_source=github&utm_medium=resources_repo&utm_campaign=resources) 
 
 This is just the beginning! As we grow this list, we'll create separate repositories for each category, but for now you can enjoy all the resources in one place.
 
