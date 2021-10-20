@@ -23,6 +23,14 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Articles
+[Difference between MVVM vs MVC.](https://www.educba.com/mvvm-vs-mvc/) The major key differences such as architecture, operation, advantages, and limitations are discussed in this article. [EDUCBA]
+
+[Sending iOS push notifications via APNs.](https://blog.engineyard.com/ios-push-notifications-via-apns) This blog post discusses in detail the APN services, enable and register for remote notifications, device token ids, and APN node package with the help of a sample iOS. [ENGINEYARD]
+
+[How I hacked an Android app for a premium feature.](https://proandroiddev.com/how-i-hacked-an-android-app-for-a-premium-feature-d9ca74e797ad) Merab rewrote the bytecode to unlock premium features of the app on his device and now he shows you how to prevent it from happening to your apps. [PROANDROIDDEV]
+
+[Using WebSockets in Flutter.](https://blog.logrocket.com/using-websockets-flutter/) This article explores how we can use our own WebSockets to create applications that display real-time data to our users. [LOGROCKET]
+
 [What's new in DigitalOcean App Platform?](https://www.digitalocean.com/blog/new-in-digitalocean-app-platform-enhanced-security-insights-and-dbaas-integration/) There's enhanced security, insights and DBaaS integration. [DIGITALOCEAN]
 
 [Does cloud backup protect against ransomware?](https://www.virtualizationhowto.com/2021/08/does-cloud-backup-protect-against-ransomware/) As businesses aggressively move to the cloud for housing business-critical data, the cloud is becoming a target for hackers launching ransomware attacks. [VIRTUALIZATIONHOWTO]
@@ -149,6 +157,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## How-to's
+[Front-end developer skills you must have.](https://www.interviewbit.com/blog/front-end-developer-skills/) Front-end developers require a combination of technical and soft abilities. If you’re pursuing a career as a Front-end Developer, these are the talents you’ll need to develop. [INTERVIEWBIT]
+
+[Top 50 data structure and algorithms interview questions for programmers.](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) Frequently asked programming interview questions from different interviews for programmers at different levels of experience. [MEDIUM.JAVAREVISITED]
+
 [Send mails programmatically with Sendgrid.](https://sayurikamble.hashnode.dev/send-mails-programmatically-with-sendgrid) Learn to send emails from your NextJs Application using SendGrid. [SAYURIKAMBLE.HASHNODE]
 
 [Building the same app 5 times.](https://dev.to/sammyshear/building-the-same-app-5-times-5d8l) Here are Sammy's experiences with jQuery, Angular, React, Vue, and Svelte [DEVTO]
@@ -211,6 +223,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [30 days to form a new habit of coding – are you in?](https://www.geeksforgeeks.org/30-days-to-form-a-new-habit-of-coding-are-you-in) GeeksforGeeks has launched 30 Days of Code, a free course where you can attempt one coding question every day for 30 days and can master your Data structure and Algorithm skills. [GEEKSFORGEEKS]
 
 ## Lists
+[8 mobile app security best practices developers should follow.](https://dev.to/kovalchuk/8-mobile-app-security-best-practices-developers-should-follow-544o) Best protected applications are those developed using the security by design approach when security is taken into account on the initial stages of the development process. [DEVTO]
+
+[Top 50 data structure and algorithms interview questions for programmers.](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) Frequently asked programming interview questions from different interviews for programmers at different levels of experience. [MEDIUM.JAVAREVISITED]
+
 [Useful VS code extensions for front-end developers.](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. [SMASHING.MAGAZINE]
 
 [Free cloud database services.](https://bejamas.io/blog/free-cloud-database-services/) A list of free cloud database services that you could use for your business. [BEJAMAS]
