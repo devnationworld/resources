@@ -23,6 +23,28 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Articles
+[Size of Programming Language Communities in Q3 2021.](https://www.developernation.net/blog/size-of-programming-language-communities-in-q3-2021) Programming languages are a beloved subject of debate and one of the first topics we cover in our reports. Check out who reigns at the top. [DEVELOPERNATION]
+
+[How Trello Android converted from Gson to Moshi.](https://blog.danlew.net/2021/11/01/how-trello-android-converted-from-gson-to-moshi/)Trello Android recently converted from using Gson to Moshi for handling JSON. It was a bit tricky so Dan Lew wanted to document the process. [DANLEW]
+
+[What’s new in Xamarin and Visual Studio 2022.](https://devblogs.microsoft.com/xamarin/whats-new-in-xamarin-and-visual-studio-2022/) David Ortinau shares a round-up of the latest Xamarin releases, revisits the Xamarin support policy, and looks ahead at the road to .NET 6 and .NET MAUI coming in the second quarter of 2022. [DEVBLOGS.MICROSOFT]
+
+[10 CSS Resources that you should bookmark.](https://dev.to/j471n/10-css-resources-that-you-should-bookmark-46l6) Some awesome resources that can improve your productivity. [DEVTO]
+
+[5 ways to crack remote internships in 2021.](https://www.crio.do/blog/remote-internships/) Although you may not find companies posting about remote internship roles, you can land an opportunity by putting yourself out there, in the market. [CRIO]
+
+[Software engineering is a loser’s game.](https://dzone.com/articles/software-engineering-is-a-losers-game) Software engineering is a loser’s game. So let’s learn to play the game and stop losing to ourselves. [DZONE]
+
+[DotNetConf 2021 - .NET everywhere - Windows, Linux, and beyond.](https://www.hanselman.com/blog/dotnetconf-2021-net-everywhere-windows-linux-and-beyond) .NET 6 is released and it's a LTS release which means it'll be fully and actively supported for the next 3 years. [HANSELMAN]
+
+[The role of data governance in effective data management.](https://www.eweek.com/database/role-of-data-governance-in-effective-data-management/) Four industry experts discuss the growing challenges in data governance, and highlight the issues that need to be resolved for better data management. [EWEEK]
+
+[REST APIs for Oracle Database.](https://www.thatjeffsmith.com/archive/2021/10/rest-apis-for-oracle-database-postman-vs-insomnia/) Postman vs Insomnia. [THATJEFFSMITH]
+
+[Microservices using NestJS.](https://splimter.medium.com/microservices-using-nestjs-4ea5f1580d32) Soheyb Merah shares their guide. [SPLIMTER.MEDIUM]
+
+[SRE vs DevOps for APIs.](https://apiacademy.co/2021/08/sre-vs-devops-for-apis/) Adam DuVander discusses the benefits of each and how companies use them to strengthen their API products. [APIACADEMY]
+
 [Difference between MVVM vs MVC.](https://www.educba.com/mvvm-vs-mvc/) The major key differences such as architecture, operation, advantages, and limitations are discussed in this article. [EDUCBA]
 
 [Sending iOS push notifications via APNs.](https://blog.engineyard.com/ios-push-notifications-via-apns) This blog post discusses in detail the APN services, enable and register for remote notifications, device token ids, and APN node package with the help of a sample iOS. [ENGINEYARD]
@@ -157,6 +179,14 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## How-to's
+[A beginner’s guide to routing in Next.JS, with examples.](https://www.sitepoint.com/routing-in-next-js-beginner-guide/) Kingsley Ubah shares how to set up a Next.js project and how the system of file routing in Next.js works. [SITEPOINT]
+
+[The right way to use favicons.](https://dzone.com/articles/the-right-way-to-use-favicons) Alexey Shepelev gives a run-down on how to work with favicons. [DZONE]
+
+[How to solve any iOS crash ever.](https://swiftrocks.com/how-to-solve-any-ios-crash-ever) Ever had a crash in which you had absolutely no idea what was going on, and no amount of testing allowed you to reproduce the issue? If so, read this! [SWIFTROCKS]
+
+[Stretching the UX of Android apps for foldable phones.](https://proandroiddev.com/stretching-the-ux-of-android-apps-for-foldable-phones-d51957463f87) To make apps foldable-aware, Google has provided some tools with Android Jetpack within a new WindowManager API that enables apps to benefit from screen size change. [PROANDROIDDEV]
+
 [Front-end developer skills you must have.](https://www.interviewbit.com/blog/front-end-developer-skills/) Front-end developers require a combination of technical and soft abilities. If you’re pursuing a career as a Front-end Developer, these are the talents you’ll need to develop. [INTERVIEWBIT]
 
 [Top 50 data structure and algorithms interview questions for programmers.](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) Frequently asked programming interview questions from different interviews for programmers at different levels of experience. [MEDIUM.JAVAREVISITED]
@@ -192,6 +222,8 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [React performance optimization tips.](https://dev.to/harshdand/react-performance-optimization-tips-4238) In this post, Harsh looks into how we can improve the performance of React apps that need to render a lot of components on the screen. [DEVTO]
 
 ## Learning
+[ASO tips & tricks to increase your app's ranking.](https://blog.nielsmouthaan.nl/aso-tips-and-tricks-to-increase-your-apps-ranking) Niels Mouthaan shows how you can increase downloads and make more money with your apps by optimizing their discoverability on the App Store. [NIELSMOUTHAAN]
+
 [Explore Futures in Flutter.](https://medium.com/flutterdevs/explore-futures-in-flutter-50ea5b91fc2) How to use the future in your flutter applications. [MEDIUM.FLUTTERDEVS]
 
 [Ultimate guide to Regular Expressions (RegEx) on JavaScript.](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript) Matching strings? Lookaheads? Flags? Let's learn more about it! [YURICODESBOT.HASHNODE]
@@ -223,6 +255,8 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [30 days to form a new habit of coding – are you in?](https://www.geeksforgeeks.org/30-days-to-form-a-new-habit-of-coding-are-you-in) GeeksforGeeks has launched 30 Days of Code, a free course where you can attempt one coding question every day for 30 days and can master your Data structure and Algorithm skills. [GEEKSFORGEEKS]
 
 ## Lists
+[17 killer websites for web developers.](https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8) Keeping websites handy can be the ultimate productivity hack, Here are some of the best websites Harsh Makadia uses to make his life easier. [JAVASCRIPT.PLAINENGLISH]
+
 [8 mobile app security best practices developers should follow.](https://dev.to/kovalchuk/8-mobile-app-security-best-practices-developers-should-follow-544o) Best protected applications are those developed using the security by design approach when security is taken into account on the initial stages of the development process. [DEVTO]
 
 [Top 50 data structure and algorithms interview questions for programmers.](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) Frequently asked programming interview questions from different interviews for programmers at different levels of experience. [MEDIUM.JAVAREVISITED]
