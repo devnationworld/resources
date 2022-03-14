@@ -13,6 +13,7 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 - [Learning](#learning)
 - [Lists](#lists)
 - [Organising](#organising)
+- [Surveys](#surveys)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Trends](#trends)
@@ -23,6 +24,26 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## Articles
+[NSA report: This is how you should be securing your network.](https://www.zdnet.com/article/nsa-report-this-is-how-you-should-be-securing-your-network/)  The report covers network design, device passwords and password management, remote logging and administration, security updates, key exchange algorithms, and important protocols such as Network Time Protocol, SSH, HTTP, and Simple Network Management Protocol (SNMP). [ZDNET]
+
+[PowerShell plans unveiled after .NET 7 hiccup.](https://visualstudiomagazine.com/articles/2022/03/07/powershell-plans.aspx)  The PowerShell dev team unveiled its 2022 plans, including a move to the upcoming .NET 7, a project that has been delayed by some issues. [VISUALSTUDIOMAGAZINE]
+
+[No other profession trivialises their profession to the degree of software.](https://ghuntley.com/squirrel-burgers/)  Geoff Huntley believes software practitioners should be licensed and be bound by a professional ethical code. [GHUNTLEY]
+
+[Bugs in Hello World.](https://blog.sunfishcode.online/bugs-in-hello-world/)  Surely, this humble starting-point program should be bug free, right? [SUNFISHCODE]
+
+[GitHub vs GitLab: The key differences.](https://www.zdnet.com/article/github-vs-gitlab-the-key-differences/)  It's not GitHub versus GitLab. They're both based around the Git distributed version control system, but they have very different development approaches. [ZDNET]
+
+[Windows 11: The end of the old-school Windows desktop.](https://www.computerworld.com/article/3652612/windows-11-the-end-of-the-old-school-windows-desktop.html)  In the long run, Microsoft wants you to switch to a Desktop-as-a-Service model, and the first steps on this journey may already be in place on your conventional Windows PC . [COMPUTERWORLD]
+
+[The most influential website of all time.](https://thehistoryoftheweb.com/postscript/the-most-influential-website-of-all-time/)  There’s one site that is connected to Facebook, YouTube, Yahoo!, Twitter, and many others. And you probably never think about it. [THEHISTORYOFTHEWEB]
+
+[Misconfiguration was the number one cause of cloud-security incidents in 2021.](https://cloudcomputing-news.net/news/2022/mar/04/misconfiguration-was-the-number-one-cause-of-cloud-security-incidents-in-2021/)  As organisations continue to adopt the cloud, they struggle to manage the complexity of securing their cloud infrastructures across multiple cloud platforms. [CLOUDCOMPUTING]
+
+[Why SQL needs software libraries.](https://future.a16z.com/sql-needs-software-libraries/)  Fivetran co-founder and CEO George Fraser shares why they are needed. [FUTURE]
+
+[Android 13 deep dive: Every change, thoroughly documented.](https://blog.esper.io/android-13-deep-dive/#hub_mode)  Mishaal Rahman discusses new features, UI, behavioural and platform changes, plus the new APIs for Android 13. [ESPER]
+
 [Size of Programming Language Communities in Q3 2021.](https://www.developernation.net/blog/size-of-programming-language-communities-in-q3-2021) Programming languages are a beloved subject of debate and one of the first topics we cover in our reports. Check out who reigns at the top. [DEVELOPERNATION]
 
 [How Trello Android converted from Gson to Moshi.](https://blog.danlew.net/2021/11/01/how-trello-android-converted-from-gson-to-moshi/)Trello Android recently converted from using Gson to Moshi for handling JSON. It was a bit tricky so Dan Lew wanted to document the process. [DANLEW]
@@ -179,6 +200,8 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 
 
 ## How-to's
+[How to build sustainable serverless applications.](https://medium.com/lego-engineering/how-to-build-sustainable-serverless-applications-ffab8ae4e690)  LEGO engineers look at the essentials of building a sustainable serverless application. [MEDIUM]
+
 [A beginner’s guide to routing in Next.JS, with examples.](https://www.sitepoint.com/routing-in-next-js-beginner-guide/) Kingsley Ubah shares how to set up a Next.js project and how the system of file routing in Next.js works. [SITEPOINT]
 
 [The right way to use favicons.](https://dzone.com/articles/the-right-way-to-use-favicons) Alexey Shepelev gives a run-down on how to work with favicons. [DZONE]
@@ -222,6 +245,10 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [React performance optimization tips.](https://dev.to/harshdand/react-performance-optimization-tips-4238) In this post, Harsh looks into how we can improve the performance of React apps that need to render a lot of components on the screen. [DEVTO]
 
 ## Learning
+[Building web layouts for dual-screen and foldable devices.](https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/)  Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. [SMASHING.MAGAZINE]
+
+[JavaScript practice exercises for all levels.](https://snipcart.com/blog/javascript-practice-exercises)  Whatever your JavaScript skills are, here's are some JavaScript coding exercises you can do at your own pace. [SNIPCART]
+
 [ASO tips & tricks to increase your app's ranking.](https://blog.nielsmouthaan.nl/aso-tips-and-tricks-to-increase-your-apps-ranking) Niels Mouthaan shows how you can increase downloads and make more money with your apps by optimizing their discoverability on the App Store. [NIELSMOUTHAAN]
 
 [Explore Futures in Flutter.](https://medium.com/flutterdevs/explore-futures-in-flutter-50ea5b91fc2) How to use the future in your flutter applications. [MEDIUM.FLUTTERDEVS]
@@ -296,6 +323,11 @@ If you've got a resource that you'd like to add to here, we'd love to hear from 
 [KanbanFlow vs. Trello vs. nTask.](https://dzone.com/articles/kanbanflow-vs-trello-who-wins-the-battle)  Knowing the importance of project management software is one thing but to have an idea about the best project management software in the world is a completely different animal. [DZONE]
 
 [Why do I spend weeks avoiding tasks that will take me 10 minutes to do?'](https://www.vice.com/en/article/akd44z/why-do-i-procrastinate) Procrastinating has less to do with time management and more to do with mood management. [VICE]
+
+## Surveys
+[Professional web developer survey.](https://survey.developernation.net/name/gpwds1?utm_medium=github&utm_source=resources) 4 minute survey where developers can share their pain points. You could be in with a chance to win an App Store / iTunes /  Google Play gift card worth $30, GitHub Teams plan, or $50 Amazon gift card.
+
+[Building for 3rd party ecosystems?](https://survey.developernation.net/name/dn22-wpm?utm_medium=github&utm_source=resources) We’re also looking for devs who build apps, mini-apps, extensions, plugins or skills for 3rd-party ecosystems, such as commerce platforms and work/project management tools. It's a 5 minute poll and prizes include JetBrains all product subscriptions and $30 vouchers.
 
 ## Skills
 [The art of data storytelling.](https://www.juiceanalytics.com/writing/the-art-of-data-storytelling-pixar-style) This is an interesting inspiration for data storytelling. [JUICEANALYTICS]
